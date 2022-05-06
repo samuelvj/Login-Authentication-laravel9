@@ -1,2 +1,2 @@
-# Login-Authentication-laravel9
-This project is a laravel login part i alearning 
+# Login-Authentication-laravel-9
+This is a strong authentication login done in laravel.
